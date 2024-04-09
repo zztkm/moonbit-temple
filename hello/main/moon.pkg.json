@@ -1,0 +1,11 @@
+{
+  "is_main": true,
+  "import": [
+    "zztkm/hello/lib",
+    {
+      "path": "zztkm/hello/lib/fib",
+      "alias": "my_fibonacci"
+    },
+    "zztkm/hello/hi"
+  ]
+}
